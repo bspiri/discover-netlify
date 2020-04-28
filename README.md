@@ -8,4 +8,4 @@
 
 ## Deployment
 
-* Link to the website deployed on Netlify : [https://quizzical-franklin-d51e0e.netlify.app/]()
+* Link to the website deployed on Netlify : [https://quizzical-franklin-d51e0e.netlify.app/](https://quizzical-franklin-d51e0e.netlify.app/)
